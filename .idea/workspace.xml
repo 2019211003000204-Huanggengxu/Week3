@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ced6dd7-1755-4fdc-926b-66749249cd1b" name="Default Changelist" comment="" />
+    <list default="true" id="1ced6dd7-1755-4fdc-926b-66749249cd1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,6 +146,8 @@
       <updated>1615095226096</updated>
       <workItem from="1615095227638" duration="1543000" />
       <workItem from="1624765135888" duration="1238000" />
+      <workItem from="1624766445242" duration="333000" />
+      <workItem from="1624767014106" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1615095736621</created>
@@ -157,6 +161,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
